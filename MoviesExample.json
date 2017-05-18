@@ -8,6 +8,83 @@
       }
     },
     {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SY1000_CR0,0,672,1000_AL_.jpg"
+      }
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR3,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR10,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
       "title": "Wonder Woman",
       "year": 2017,
       "posters": {
