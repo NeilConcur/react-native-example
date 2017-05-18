@@ -85,6 +85,41 @@
       }
     },
     {
+      "title": "Braveheart",
+      "year": 1995,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg4NzA0MTktOGU5ZS00ODlkLWE3ZmQtYjAzNjNmM2E3NmEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Back to the Future",
+      "year": 1985,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "The Lion King",
+      "year": 1994,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR2,0,182,268_AL_.jpg"
+      }
+    },
+    {
+      "title": "Alien",
+      "year": 1979,
+      "posters": {
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR0,0,182,268_AL_.jpg"
+      }
+    },
+    {
       "title": "Wonder Woman",
       "year": 2017,
       "posters": {
