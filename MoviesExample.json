@@ -1,1 +1,11 @@
-
+{
+  "movies": [
+    {
+      "title": "Chain Reaction",
+      "year": 1996,
+      "posters": {
+        "thumbnail": "https://resizing.flixster.com/DeLpPTAwX3O2LszOpeaMHjbzuAw=/53x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/47/11164719_ori.jpg"
+      }
+    }
+  ]
+}
